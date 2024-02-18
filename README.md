@@ -31,3 +31,9 @@ You can use the H2 Console to inspect the in-memory database.
 The Endpoints can be accessed via swagger:
 http://localhost:8080/swagger-ui/index.html
 
+# Technologies Used
+Java
+Spring Boot
+H2 Database
+Maven
+
